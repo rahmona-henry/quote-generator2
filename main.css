@@ -1,0 +1,35 @@
+#header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+#nav {
+  line-height: 30px;
+  background-color: #eeeeee;
+  height:300px;
+  width: 200px;
+  float:left;
+  padding:5px;
+
+}
+#section {
+
+  text-align: center;
+  width:350;
+  height:300px;
+  float:left;
+  padding:10px;
+  margin:auto;
+}
+
+#footer {
+  background-color: black;
+  height:100px;
+  color:white;
+  clear:both;
+  text-align: center;
+  padding:5px;
+}
+
